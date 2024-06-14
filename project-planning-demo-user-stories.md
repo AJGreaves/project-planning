@@ -77,3 +77,9 @@
     - Clicking the registration button opens a registration form.
     - The registration form includes fields for name, email, and phone number.
     - A confirmation message is displayed after form submission.
+
+- **Tasks:**
+    - Add a registration button to each event listing.
+    - Create an HTML form for event registration.
+    - Style the registration form using Bootstrap.
+    - Ensure the form displays a confirmation message after submission.
